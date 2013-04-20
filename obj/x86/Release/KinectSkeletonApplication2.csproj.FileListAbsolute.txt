@@ -1,0 +1,14 @@
+C:\Users\antho\Documents\Visual Studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Release\KinectSkeletonApplication2.exe
+C:\Users\antho\Documents\Visual Studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Release\KinectSkeletonApplication2.pdb
+C:\Users\antho\Documents\Visual Studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Release\NKH.MindSqualls.dll
+C:\Users\antho\Documents\Visual Studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Release\WinUsbWrapper.dll
+C:\Users\antho\Documents\Visual Studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Release\KinectSkeletonApplication2.csprojResolveAssemblyReference.cache
+C:\Users\antho\Documents\Visual Studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Release\MainWindow.baml
+C:\Users\antho\Documents\Visual Studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Release\MainWindow.g.cs
+C:\Users\antho\Documents\Visual Studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Release\App.g.cs
+C:\Users\antho\Documents\Visual Studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Release\KinectSkeletonApplication2_MarkupCompile.cache
+C:\Users\antho\Documents\Visual Studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Release\KinectSkeletonApplication2.g.resources
+C:\Users\antho\Documents\Visual Studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Release\KinectSkeletonApplication2.Properties.Resources.resources
+C:\Users\antho\Documents\Visual Studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Release\KinectSkeletonApplication2.csproj.GenerateResource.Cache
+C:\Users\antho\Documents\Visual Studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Release\KinectSkeletonApplication2.exe
+C:\Users\antho\Documents\Visual Studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Release\KinectSkeletonApplication2.pdb

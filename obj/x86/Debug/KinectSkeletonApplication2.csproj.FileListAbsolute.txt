@@ -1,0 +1,14 @@
+c:\users\antho\documents\visual studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\KinectSkeletonApplication2.exe
+c:\users\antho\documents\visual studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\KinectSkeletonApplication2.pdb
+c:\users\antho\documents\visual studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.csprojResolveAssemblyReference.cache
+c:\users\antho\documents\visual studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\MainWindow.baml
+c:\users\antho\documents\visual studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\MainWindow.g.cs
+c:\users\antho\documents\visual studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\App.g.cs
+c:\users\antho\documents\visual studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2_MarkupCompile.cache
+c:\users\antho\documents\visual studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.g.resources
+c:\users\antho\documents\visual studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.Properties.Resources.resources
+c:\users\antho\documents\visual studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.csproj.GenerateResource.Cache
+c:\users\antho\documents\visual studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.exe
+c:\users\antho\documents\visual studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\obj\x86\Debug\KinectSkeletonApplication2.pdb
+c:\users\antho\documents\visual studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\NKH.MindSqualls.dll
+c:\users\antho\documents\visual studio 2010\Projects\KinectSkeletonApplication2\KinectSkeletonApplication2\bin\Debug\WinUsbWrapper.dll
